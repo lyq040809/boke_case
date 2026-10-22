@@ -1,0 +1,11 @@
+baseURL = 'https://lyq040809.github.io/boke_case/'
+languageCode = 'zh-cn'
+title = 'boke_case'
+theme = 'PaperMod'
+
+[taxonomies]
+  tag = 'tags'
+
+[params]
+  author = 'Q'
+  description = 'Q 的个人博客'
